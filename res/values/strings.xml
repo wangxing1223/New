@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    <string name="app_name">Test</string>
+    <string name="test1">Test1</string>
+    <string name="test2">Test2</string>
+    <string name="phone">电话</string>
+    <string name="ok">已接</string>
+    <string name="contact">联系人</string>
+    <string name="query">查询</string>
+    <string name="tel">拨号</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="pound">#</string>
+    <string name="chengfa">*</string>
+    <string name="weight">请输入您的体重</string>
+    <string name="height">请输入您的身高</string>
+</resources>
